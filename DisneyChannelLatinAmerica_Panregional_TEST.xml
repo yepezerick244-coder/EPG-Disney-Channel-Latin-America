@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+  <channel id="DisneyChannelLatinAmerica.ar@Panregional">
+    <display-name>Disney Channel Latin America (1080p)</display-name>
+  </channel>
+  <programme start="20260818090000 -0500" stop="20260818100000 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
+    <title>Programa de prueba</title>
+    <desc>EPG de prueba para Disney Channel Latin America.</desc>
+  </programme>
+</tv>
