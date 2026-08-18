@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="EPG Disney Channel Latin America">
+<tv generator-info-name="EPG Disney Channel Latin America (1080p)">
   <channel id="DisneyChannelLatinAmerica.ar@Panregional">
-    <display-name>Disney Channel Latin America</display-name>
+    <display-name>Disney Channel Latin America (1080p)</display-name>
   </channel>
   <programme start="20260819001000 -0500" stop="20260819003300 -0500" channel="DisneyChannelLatinAmerica.ar@Panregional">
     <title>The Owl House - La Casa Búho</title>
